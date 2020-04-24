@@ -1,2 +1,3 @@
+dist: bionic
 language: nix
 script: nix-shell shell.nix --run "make"
